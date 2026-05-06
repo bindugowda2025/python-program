@@ -7,3 +7,14 @@ print("Division of a and b ",a/b)
 print("Remainder of a and b ",a%b)
 print("Exponent of a and b ",a**b)
 print("Floar division of a and b ",a//b)
+
+output:
+Enter a value2
+Enter b value4
+Addition of a and b  6
+Subtraction of a and b  -2
+Multiplication of a and b  8
+Division of a and b  0.5
+Remainder of a and b  2
+Exponent of a and b  16
+Floar division of a and b  0
